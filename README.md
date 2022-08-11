@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ELENADANILOVA874
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to связаться :elenadanilova874@mail.ru
 
 <!---
